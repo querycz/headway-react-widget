@@ -1,1 +1,0 @@
-# Headway widget components

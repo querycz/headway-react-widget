@@ -1,10 +1,1 @@
-*.iml
-.idea/
-*.class
-*target*
-.vagrant
 node_modules
-npm-debug.log
-dist
-storybook-static
-packages/angular-widget/documentation.json
